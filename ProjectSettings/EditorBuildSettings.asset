@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Screen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game Screen.unity
+    guid: 9ac6f4873f9007a42be73e44a2515ed6
+  - enabled: 1
+    path: Assets/Scenes/Victory Screen.unity
+    guid: 4a5239a9d2d979a46a998aef4d2becf2
+  - enabled: 1
+    path: Assets/Scenes/Death Screen.unity
+    guid: c738a5a01c34fc247b2968a484c05212
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0
